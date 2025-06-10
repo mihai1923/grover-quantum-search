@@ -1,0 +1,14 @@
+{
+  "n_qubits": 20,
+  "database_size": 1048576,
+  "marked_item": 121958,
+  "optimal_iterations_theoretical": 804,
+  "peak_iteration_observed": 804,
+  "peak_probability_observed": 0.9999997569653621,
+  "probability_at_optimal": 0.9999997569653621,
+  "theoretical_max_probability": 0.999999756965361,
+  "efficiency": 1.000000000000001,
+  "iteration_accuracy": 0.0,
+  "speedup_factor": 1304.1990049751244,
+  "timestamp": "2025-06-10T01:56:52.797832"
+}
